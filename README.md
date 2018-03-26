@@ -1,8 +1,6 @@
 HTML5 device mockups
 ====================
 
-You can view the demo page of all devices here: http://pixelsign.github.io/html5-device-mockups/
-
 Use on...
 * Your website / splash screen
 
@@ -92,20 +90,3 @@ Integrating to your website:
                     </div>
                 </div>
 
-
-Created by:
----
-
-> Tomi Hiltunen
-> * tomi@innovaniac.com
-> * http://innovaniac.com
-
-
-> Angelos Arnis
-> * angelos.arnis@gmail.com
-> * http://dribbble.com/pixelsign
-
-
-Credits for the original graphical renderings of the devices
-used in this package are found in a separate file which is
-provided with this package.
